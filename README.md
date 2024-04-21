@@ -10,6 +10,7 @@
    \  \:\      \  \:\  |  |:|     \  \:\/:/    \  \:\         /__/:/      \  \:\   \  \:\
     \  \:\      \__\/  |  |:|      \  \::/      \  \:\        \__\/        \__\/    \__\/
      \__\/             |__|/        \__\/        \__\/                                   
+
 Silly goober
 Mainly plays Roblox n Rhythia
 Doesnt eep enough smh -w-
