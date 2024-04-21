@@ -1,4 +1,4 @@
-      ___               ___          ___          ___                                    
+```      ___               ___          ___          ___                                    
      /  /\     ___     /__/|        /  /\        /__/\       ___          ___      ___   
     /  /::\   /__/|   |  |:|       /  /:/_       \  \:\     /  /\        /  /\    /__/|  
    /  /:/\:\ |  |:|   |  |:|      /  /:/ /\       \  \:\   /  /:/       /  /:/   |  |:|  
@@ -30,4 +30,4 @@ Doesnt eep enough smh -w-
  here.fm/join/1c9b659b-d2dc-449a-8d01-842a3b9d0655
  steamcommunity.com/profiles/76561199270760907
  roblox.com/users/1356527037/profile
- osu.ppy.sh/users/19396845
+ osu.ppy.sh/users/19396845```
